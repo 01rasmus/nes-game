@@ -2,7 +2,7 @@ COMPILER_FOLDER := ./cc65
 OUTPUT_FOLDER   := ./build
 COMPILER 	:= $(COMPILER_FOLDER)/bin/cl65
 OUTPUT  	:= $(OUTPUT_FOLDER)/snake.nes
-INPUT     	:= ./src/main.s
+INPUT     	:= ./snake.s
 PROCS		:= 16
 
 build: $(OUTPUT)
