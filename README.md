@@ -1,4 +1,4 @@
-# 🐍 RL NES Snake
+# 🐍 RL Snake
 A snake game made for the NES as a university assignment focused on low-level programming in 2022 📚
 ![Snake Gameplay](snake.gif)
 
