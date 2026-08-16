@@ -3,7 +3,7 @@ OUTPUT_FOLDER   := ./build
 COMPILER 	:= $(COMPILER_FOLDER)/bin/cl65
 OUTPUT  	:= $(OUTPUT_FOLDER)/snake.nes
 INPUT     	:= ./snake.s
-PROCS		:= 16
+PROCS		:= 4
 
 build: $(OUTPUT)
 
